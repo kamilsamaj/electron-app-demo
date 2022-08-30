@@ -1,0 +1,18 @@
+{
+  "name": "electron-app-demo",
+  "version": "1.0.0",
+  "description": "A simple Electron app packages for Windows, macOS and Linux",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "test": "true"
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "Kamil Samaj <kamilsamaj@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^20.1.0"
+  }
+}
